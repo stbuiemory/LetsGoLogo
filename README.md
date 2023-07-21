@@ -12,7 +12,8 @@ A Node.js command-line application that allows user to generate a logo and save 
 
 ```sh
 🔹 Create a Logo generator that accepts user input
-🔹 Users can add up to 3 characters, select what shape (circle, triangle, or square) and choose the text and shape color.
+🔹 Users can add up to 3 characters, select what shape (circle, triangle, or square) and choose
+the text and shape color.
 ```
 ## 🎬 Usage
 
