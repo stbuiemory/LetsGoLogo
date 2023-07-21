@@ -6,7 +6,7 @@ A Node.js command-line application that allows user to generate a logo and save 
 ```
 <br> <!-- Double line break for creating a line break -->
 
-<p align="center"><a href="XXX">CLICK HERE FOR THE WALKTHROUGH</a>.</p>
+<p align="center"><a href="https://drive.google.com/file/d/1Sry8q5zmxoXEq3L8s7k2NJ5JMsH-QccG/view">CLICK HERE FOR THE WALKTHROUGH</a>.</p>
 
 ## 💻 Installation
 
@@ -19,12 +19,12 @@ A Node.js command-line application that allows user to generate a logo and save 
 ```sh
 Below is a screenshot of what the user can expect.
 ```
-![Sample logo.svg](XXX)
+![Sample logo.svg](/assets/logo_generator_screenshot.png)
 
 ## ⚙️ Testing
 
 ```sh
-Begin by running npm i.  Thereafter, node index.js.  You will then see the command line prompts needed to create your logo.
+Best viewed with VS code extension SVG Preview.
 ```
 
 ## 🤝 Contributors
